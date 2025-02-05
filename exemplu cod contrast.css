@@ -1,0 +1,11 @@
+/*Exemplu fără contrast ridicat*/
+body {
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/*Exemplu cu contrast ridicat*/
+body {
+    background-color: #000;
+    color: #FFF;
+}
